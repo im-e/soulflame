@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf9d7ba9da5e1e34685e8c39ae3f0e9d, type: 3}
+  m_Name: W1L3
+  m_EditorClassIdentifier: 
+  levelNumber: 2
+  title: Higher Heights
+  weakKindledTime: 12.84
+  normalKindledTime: 11.46
+  strongKindledTime: 10.68
+  eternalKindledTime: 9.03
+  developerKindledTime: 8.22
